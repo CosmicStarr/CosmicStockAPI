@@ -9,7 +9,7 @@ namespace CosmicStockapi.Controllers
 {
     public class PaymentController:BaseController
     {
-        private const string ActualStripeWebHook = "whsec_c7bbc6df23fb5f30cbfac69438fe21bec77690c27386ac37d01e33d320781168"; 
+        private const string ActualStripeWebHook = ""; 
         private readonly IPaymentService _paymentService;
         private readonly ILogger<PaymentController> _logger;
 
