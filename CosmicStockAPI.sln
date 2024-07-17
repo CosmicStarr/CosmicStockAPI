@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicStockapi", "cosmicstockapi\CosmicStockapi.csproj", "{93CC5B4D-C621-4624-A5A6-2EF13A2E4CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "data\Data.csproj", "{265C3455-B2F2-4579-89F3-5F48DC1E7DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "models\Models.csproj", "{C988E7C6-4A9F-4819-9D1F-3BCFE499FCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CC5B4D-C621-4624-A5A6-2EF13A2E4CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CC5B4D-C621-4624-A5A6-2EF13A2E4CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CC5B4D-C621-4624-A5A6-2EF13A2E4CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CC5B4D-C621-4624-A5A6-2EF13A2E4CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265C3455-B2F2-4579-89F3-5F48DC1E7DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265C3455-B2F2-4579-89F3-5F48DC1E7DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265C3455-B2F2-4579-89F3-5F48DC1E7DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265C3455-B2F2-4579-89F3-5F48DC1E7DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C988E7C6-4A9F-4819-9D1F-3BCFE499FCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C988E7C6-4A9F-4819-9D1F-3BCFE499FCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C988E7C6-4A9F-4819-9D1F-3BCFE499FCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C988E7C6-4A9F-4819-9D1F-3BCFE499FCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
